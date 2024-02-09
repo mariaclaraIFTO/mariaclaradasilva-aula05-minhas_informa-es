@@ -1,7 +1,7 @@
 # MARIA CLARA DA SILVA [ela/dela] 
 Sou brasileira BR 
 
-<h2>Algumas coisas que amo </h2>
+<h2>Algumas coisas que amo❤️ </h2>
  
  * Escutar novos albuns dos meus artistas favoritos 
 

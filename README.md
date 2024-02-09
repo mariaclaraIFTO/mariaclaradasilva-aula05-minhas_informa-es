@@ -1,7 +1,7 @@
 # MARIA CLARA DA SILVA [ela/dela] 
 Sou brasileira BR 
 
-<h2>Algumas coisas que amo❤️ </h2>
+<h2>Algumas coisas que amo ❤️ </h2>
  
  * Escutar novos albuns dos meus artistas favoritos 
 
@@ -10,12 +10,12 @@ Sou brasileira BR
 * Desenhar 
 * Sair com meus amigos     
 
-<h2>Ensino</h2>
+<h2>Ensino 👨‍🏫</h2> 
  
   * Estudante do IFTO *Campus Paraíso do Tocantins* 
   * 3° ano do ensino médio integrado em informática
 
-<h2>Tecnologias que já estudei</h2>
+<h2>Tecnologias que já estudei 🤖</h2>
 <h3>Back</h3>
 
 * Python

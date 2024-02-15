@@ -1,4 +1,4 @@
-# MARIA CLARA DA SILVA [ela/dela] 
+# MARIA CLARA DA SILVA *[ela/dela]* 
 Sou brasileira BR 
 
 <h2>Algumas coisas que amo ❤️ </h2>
